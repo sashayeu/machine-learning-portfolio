@@ -1,3 +1,12 @@
-# Revised Project: Predicting Stroke victims
+# Entirely New Item: Predicting profits of gamblers based on behaviours
 
-In this element, I will be recreating my Titanic survivors project, this time working with a stroke patient dataset. I will be buulding two models and comparing which one has better accuracy, deploying it on the validation set. 
+https://www.kaggle.com/kingabzpro/gambling-behavior-bustabit
+- predicting profit
+- linear model
+
+
+https://www.kaggle.com/anupammajhi/uber-request-data
+- predicting whether an uber will be available based on time and location (no date, just time)
+
+https://www.kaggle.com/rpaguirre/tesla-stock-price
+- use a random forest to predict the price? 
