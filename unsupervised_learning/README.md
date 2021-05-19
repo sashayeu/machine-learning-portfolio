@@ -1,4 +1,4 @@
-# Cold Kmeans 
+# Cold K-means 
 
 Over the course of the semester, we learned about many unsupervised algorithms. My favourite one by far was K-means, and in this jupyter notebook I will be showing my cold-implementation skills of K-means. Cold-implementations are algorithms coded from scratch, using basic elements of the language and few packages to help. My goal in creating a cold-implementation is to showcase my understanding of the basic logic of the K-means algorithm. To view my implementation, check out coldKmeans.py. This python file also includes my looping_kmeans function, which runs my K-means with different numbers of clusters and outputs a list of their respective within cluster sum of squares. The two functions in coldKmeans.py also have unit tests to check basics like type and shape.
 
@@ -8,4 +8,4 @@ To guide you through this, I will be working with a dataset about the countries 
 
 To wrap up this element, I compare my implementation of K-means to the existing off-the-shelf sklearn version, as well as discuss the limitations of K-means. I am in no way trying to create my own version of the sklearn version, which is why my implementation and the sklearn one vary in terms of usability and outputs. However, one thing that surprised me was that my cold K-means actually ran faster than the sklearn one. In terms of the limitations of both of these, it's important to talk about how the algorithm handles different types of vairables, which I leave to the end.
 
-
+Open the cold_kmeans.ipynb file to view more!
