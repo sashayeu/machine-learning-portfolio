@@ -5,3 +5,5 @@ Over the course of the semester, we learned about many unsupervised algorithms. 
 To guide you through this, I will be working with a dataset about the countries of the world. I will be exploring how these countries can be grouped together based on exports, income, and GDP per capita. 
 
 My cold implementation of K-means, as well as the looping_kmeans helped function, are located in the coldKmeans.py file. Unit tests for these functions are also included. 
+
+how the code is in a separate python file.
