@@ -3,18 +3,6 @@ import pandas as pd
 import numpy as np
 import coldKmeans as cKm
 
-# import os
-# cwd = os.getcwd()
-
-# print(cwd)
-
-# os.chdir('projects/portfolio-sashayeu/RevisedHomework')
-
-# cwd = os.getcwd()
-
-# print(cwd)
-
-
 data = pd.read_csv('country_data.csv', sep= ",")
 
 data_subset = data[['exports','income','gdpp']]
